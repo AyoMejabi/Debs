@@ -1,7 +1,7 @@
 ﻿Feature: DebenhamsAutomation1
-	In order to avoid silly mistakes
-	As a math idiot
-	I want to be told the sum of two numbers
+	In order to search for a car using psotcode
+	As an ebay user
+	I want to be be able to buy cars
 
 @mytag
 Scenario: to search for a car using postcode
